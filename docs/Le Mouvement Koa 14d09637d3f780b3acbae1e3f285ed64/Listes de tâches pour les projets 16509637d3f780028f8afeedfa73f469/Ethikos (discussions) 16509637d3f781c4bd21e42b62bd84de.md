@@ -1,0 +1,3 @@
+# Ethikos (discussions)
+
+[https://www.notion.so/16509637d3f781c290e5000ce1a1a7b7](https://www.notion.so/16509637d3f781c290e5000ce1a1a7b7)
