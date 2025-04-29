@@ -1,0 +1,6 @@
+gradio
+llama-index
+chromadb
+sentence-transformers
+huggingface_hub
+transformers
